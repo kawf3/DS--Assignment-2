@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kocha\Desktop\CS303- Fall23\Assignment 2\CS303-Assignment 2\CS303-Assignment 2\main.cpp(96,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Single_Linked_List.cpp
+  Employee.cpp
+  Generating Code...
+  CS303-Assignment 2.vcxproj -> C:\Users\Kocha\Desktop\CS303- Fall23\Assignment 2\CS303-Assignment 2\x64\Debug\CS303-Assignment 2.exe
